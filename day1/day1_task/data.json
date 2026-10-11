@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Python Programming",
+        "fee": 12000,
+        "duration": "2 months",
+        "level": "Beginner",
+        "prerequisite": "None"
+    },
+    {
+        "name": "SQL and Database",
+        "fee": 10000,
+        "duration": "1.5 months",
+        "level": "Beginner",
+        "prerequisite": "None"
+    },
+    {
+        "name": "Data Structures and Algorithms",
+        "fee": 15000,
+        "duration": "3 months",
+        "level": "Intermediate",
+        "prerequisite": "Basic Programming"
+    },
+    {
+        "name": "Machine Learning",
+        "fee": 20000,
+        "duration": "3 months",
+        "level": "Intermediate",
+        "prerequisite": "Python Programming"
+    },
+    {
+        "name": "Generative AI",
+        "fee": 18000,
+        "duration": "2 months",
+        "level": "Intermediate",
+        "prerequisite": "Python Programming"
+    }
+]
