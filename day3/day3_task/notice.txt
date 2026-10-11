@@ -1,0 +1,11 @@
+COLLEGE FEE NOTICE
+
+Academic Year: 2026-2027
+
+Course Fees:
+CS101 - Computer Science Fundamentals: ₹50,000
+AI202 - Artificial Intelligence Basics: ₹60,000
+
+Scholarship:
+Students eligible for the Merit Scholarship receive a 20% reduction
+on the course fee.
