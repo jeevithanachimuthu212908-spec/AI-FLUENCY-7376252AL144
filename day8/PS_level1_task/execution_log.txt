@@ -1,0 +1,30 @@
+=== DIRECT EXAM TOOL TESTS ===
+82: ELIGIBLE
+70: CONDONATION
+50: NOT ELIGIBLE
+120: ERROR
+
+============ QUESTION 1 ============
+USER: What CGPA do I need to be eligible for placements?
+TOOL: [actual tool output]
+ASSISTANT: [actual agent answer]
+
+============ QUESTION 2 ============
+USER: My attendance is 70%. Can I write the exam?
+TOOL: [actual tool output]
+ASSISTANT: [actual agent answer]
+
+============ QUESTION 3 ============
+USER: What is the total of the CS101 fee, the AI202 fee and the maximum late fee?
+TOOL: [actual tool output]
+ASSISTANT: [actual agent answer]
+
+============ QUESTION 4 ============
+USER: And if I pay only 5 days late instead?
+TOOL: [actual tool output]
+ASSISTANT: [actual agent answer]
+
+============ QUESTION 5 ============
+USER: What is the capital of France?
+TOOL: [actual tool output]
+ASSISTANT: [actual agent answer]
